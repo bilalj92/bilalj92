@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalj92
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML CSS & Javascript
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python, SQL, Machine Learning
 - 💞️ I’m looking to collaborate on projects that will help the client as well as improve my skillset
 - 📫 How to reach me - bilalj.92@gmail.com
 
